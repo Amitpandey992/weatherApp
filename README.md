@@ -26,17 +26,17 @@ This is a simple weather application built using Vite, React, and the [OpenWeath
    npm install
 2. Get an API key:
 
-Obtain an API key from [OpenWeatherMap](https://openweathermap.org/) by signing up for an account.
+   Obtain an API key from [OpenWeatherMap](https://openweathermap.org/) by signing up for an account.
 
 3. Set up environment variables:
 
-Create a .env file in the root directory and add your API key:
+   Create a .env file in the root directory and add your API key:
 
 
 VITE_API_KEY=your_openweathermap_api_key
 
 Run the application:
-```npm run dev```
+   ```npm run dev```
 
 
 ## Usage
